@@ -10,6 +10,6 @@ public class LinearEq {
 		// Prints the linear equations.
 		System.out.println ( a + " * x + " + b + " = " + c);
 		// Prints the solution of x.
-		System.out.println ( " x = " + sol);
+		System.out.println ( "x = " + sol);
 	}
 }
